@@ -31,7 +31,7 @@ The dataset used contains details about Netflix content, such as:
 
 ## 🔍 Analysis Tasks & Questions
 
-### ✅ Task 1: Genre & Popularity Insights
+### ✅ Task : Genre & Popularity Insights
 
 | **Question** | **Description**                                                    |
 | ------------ | ------------------------------------------------------------------ |
