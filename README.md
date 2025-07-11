@@ -61,5 +61,3 @@ The dataset used contains details about Netflix content, such as:
 
 ---
 
-## 📂 Folder Structure
-
